@@ -14,8 +14,8 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day | Problem | Status |
 |-----|--------|--------|
 | Day 1 | Count Inversions | ✅ |
+| Day 2 | Missing Element in Range | ✅ |
 
----
 
 ## 🧠 Key Learnings
 
