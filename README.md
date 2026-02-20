@@ -15,6 +15,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 |-----|--------|--------|
 | Day 1 | Count Inversions | ✅ |
 | Day 2 | Missing Element in Range | ✅ |
+| Day 3 | Form the Largest Number | ✅ |
 
 
 ## 🧠 Key Learnings
