@@ -19,7 +19,8 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 4 | Find H-Index | ✅ |
 | Day 5 | Count Subarrays with given XOR | ✅ |
 | Day 6 | Union of Arrays with Duplicates | ✅ |
-
+| Day 7 | Longest Span in two Binary Arrays | ✅ |
+| Day 8 | Longest Subarray with Majority Greater than K | ✅ |
 
 ## 🧠 Key Learnings
 
