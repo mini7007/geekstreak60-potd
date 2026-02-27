@@ -22,6 +22,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 7 | Longest Span in two Binary Arrays | ✅ |
 | Day 8 | Longest Subarray with Majority Greater than K | ✅ |
 | Day 9 | Isomorphic Strings | ✅ |
+| Day 10 | Number of Submatrix have sum X | ✅ |
 
 ## 🧠 Key Learnings
 
