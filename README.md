@@ -23,6 +23,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 8 | Longest Subarray with Majority Greater than K | ✅ |
 | Day 9 | Isomorphic Strings | ✅ |
 | Day 10 | Number of Submatrix have sum X | ✅ |
+| Day 11 | Find the Closest Pair from Two Arrays | ✅ |
 
 ## 🧠 Key Learnings
 
