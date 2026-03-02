@@ -25,7 +25,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 10 | Number of Submatrix have sum X | ✅ |
 | Day 11 | Find the Closest Pair from Two Arrays | ✅ |
 | Day 12 | Move All Zeroes to End | ✅ |
-
+| Day 13 | Trapping Rain Water | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
