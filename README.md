@@ -27,6 +27,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 12 | Move All Zeroes to End | ✅ |
 | Day 13 | Trapping Rain Water | ✅ |
 | Day 14 | Longest Subarray with At Most Two Distinct Integers | ✅ |
+| Day 15 | Max XOR Subarray of Size K | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
