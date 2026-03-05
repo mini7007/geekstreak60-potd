@@ -11,6 +11,8 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 
 ## 📅 Progress Tracker
 
+## 📅 Progress Tracker
+
 | Day | Problem | Status |
 |-----|--------|--------|
 | Day 1 | Count Inversions | ✅ |
@@ -28,6 +30,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 13 | Trapping Rain Water | ✅ |
 | Day 14 | Longest Subarray with At Most Two Distinct Integers | ✅ |
 | Day 15 | Max XOR Subarray of Size K | ✅ |
+| Day 16 | Longest Substring with K Unique Characters | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
