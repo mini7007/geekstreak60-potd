@@ -30,6 +30,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 15 | Max XOR Subarray of Size K | ✅ |
 | Day 16 | Longest Substring with K Unique Characters | ✅ |
 | Day 17 | Smallest Window Containing All Characters | ✅ |
+| Day 18 | Dice Throw | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
