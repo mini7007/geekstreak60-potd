@@ -31,6 +31,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 16 | Longest Substring with K Unique Characters | ✅ |
 | Day 17 | Smallest Window Containing All Characters | ✅ |
 | Day 18 | Dice Throw | ✅ |
+| Day 19 | Pythagorean Triplet | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
