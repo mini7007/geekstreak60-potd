@@ -33,6 +33,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 18 | Dice Throw | ✅ |
 | Day 19 | Pythagorean Triplet | ✅ |
 | Day 20 | Largest Number in One Swap | ✅ |
+| Day 21 | Subarrays with First Element Minimum | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
