@@ -37,6 +37,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 22 | Sum of Subarray Minimums | ✅ |
 | Day 23 | Minimum K Consecutive Bit Flips | ✅ |
 | Day 24 | Generate IP Addresses | ✅ |
+| Day 25 | Top View of Binary Tree | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
