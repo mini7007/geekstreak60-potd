@@ -38,6 +38,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 23 | Minimum K Consecutive Bit Flips | ✅ |
 | Day 24 | Generate IP Addresses | ✅ |
 | Day 25 | Top View of Binary Tree | ✅ |
+| Day 26 | Vertical Tree Traversal | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
