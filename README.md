@@ -39,6 +39,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 24 | Generate IP Addresses | ✅ |
 | Day 25 | Top View of Binary Tree | ✅ |
 | Day 26 | Vertical Tree Traversal | ✅ |
+| Day 28 | Burning Tree | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
