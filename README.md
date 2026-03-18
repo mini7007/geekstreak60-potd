@@ -40,6 +40,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 25 | Top View of Binary Tree | ✅ |
 | Day 26 | Vertical Tree Traversal | ✅ |
 | Day 28 | Burning Tree | ✅ |
+| Day 29 | Distribute Candies | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
