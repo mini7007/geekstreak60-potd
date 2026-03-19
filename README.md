@@ -41,6 +41,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 26 | Vertical Tree Traversal | ✅ |
 | Day 28 | Burning Tree | ✅ |
 | Day 29 | Distribute Candies | ✅ |
+| Day 30 | Largest BST in Binary Tree | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
