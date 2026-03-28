@@ -45,6 +45,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 31 | Predecessor and Successor | ✅ |
 | Day 37 | Number of Ways to Arrive at Destination | ✅ |
 | Day 38 | Chocolates Pickup | ✅ |
+| Day 39 | Articulation Point - II | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
