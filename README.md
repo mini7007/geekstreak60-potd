@@ -48,6 +48,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 39 | Articulation Point - II | ✅ |
 | Day 40 | Partitions with Given Difference | ✅ |
 | Day 41 |: Minimum Cost to Connect Houses | Prim's Algorithm (MST) | ✅ |
+| Day 42 | Buy Stock with Transaction Fee | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
