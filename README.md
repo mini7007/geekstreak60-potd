@@ -52,6 +52,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 43 | Consecutive 1's Not Allowed | ✅ |
 | Day 44 | Painting the Fence | ✅ |
 | Day 45 | Print Diagonally | ✅ |
+| Day 46 | Gray Code | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
