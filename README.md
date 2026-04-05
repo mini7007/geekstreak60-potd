@@ -53,6 +53,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 44 | Painting the Fence | ✅ |
 | Day 45 | Print Diagonally | ✅ |
 | Day 46 | Gray Code | ✅ |
+| Day 47 | Target Sum | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
