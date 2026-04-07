@@ -55,6 +55,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 46 | Gray Code | ✅ |
 | Day 47 | Target Sum | ✅ |
 | Day 48 | Huffman Encoding | ✅ |
+| Day 49 | Stable Marriage Problem | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
