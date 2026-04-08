@@ -56,6 +56,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 47 | Target Sum | ✅ |
 | Day 48 | Huffman Encoding | ✅ |
 | Day 49 | Stable Marriage Problem | ✅ |
+| Day 50 | Segregate 0s and 1s | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
