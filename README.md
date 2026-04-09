@@ -57,6 +57,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 48 | Huffman Encoding | ✅ |
 | Day 49 | Stable Marriage Problem | ✅ |
 | Day 50 | Segregate 0s and 1s | ✅ |
+| Day 51 | Intersection of Two Sorted Arrays | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
