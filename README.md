@@ -58,6 +58,8 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 49 | Stable Marriage Problem | ✅ |
 | Day 50 | Segregate 0s and 1s | ✅ |
 | Day 51 | Intersection of Two Sorted Arrays | ✅ |
+| Day 52 | Sorted Subsequence of Size 3 | ✅ |
+| Day 53 | Count Increasing Subarrays | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
