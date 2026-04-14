@@ -61,6 +61,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 52 | Sorted Subsequence of Size 3 | ✅ |
 | Day 53 | Count Increasing Subarrays | ✅ |
 | Day 54 | Toeplitz Matrix | ✅ |
+| Day 56 | Remove Spaces | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
