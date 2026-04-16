@@ -63,6 +63,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 54 | Toeplitz Matrix | ✅ |
 | Day 56 | Remove Spaces | ✅ |
 | Day 57 | URLify a Given String | ✅ |
+| Day 58 | Implement Atoi | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
