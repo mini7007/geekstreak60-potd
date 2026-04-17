@@ -64,6 +64,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 56 | Remove Spaces | ✅ |
 | Day 57 | URLify a Given String | ✅ |
 | Day 58 | Implement Atoi | ✅ |
+| Day 59 | Anagram Palindrome | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
