@@ -67,6 +67,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 59 | Anagram Palindrome | ✅ |
 | Day 60 | Flip to Maximize 1s | ✅ |
 | Day 61 | Check for Power | ✅ |
+| Day 62 | Count Derangements | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
