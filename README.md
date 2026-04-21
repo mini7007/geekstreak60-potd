@@ -68,6 +68,7 @@ Solve GeeksforGeeks Problem of the Day consistently for 60 days to strengthen Da
 | Day 60 | Flip to Maximize 1s | ✅ |
 | Day 61 | Check for Power | ✅ |
 | Day 62 | Count Derangements | ✅ |
+| Day 63 | Two Water Jug Problem | ✅ |
 ## 🧠 Key Learnings
 
 - Practicing DSA daily
