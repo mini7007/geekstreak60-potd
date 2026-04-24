@@ -1,0 +1,20 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+  public:
+    int visibleBuildings(vector<int>& arr) {
+        
+        int count = 0;
+        int maxHeight = 0;
+
+        for(int h : arr) {
+            if(h >= maxHeight) {
+                count++;
+                maxHeight = h;
+            }
+        }
+
+        return count;
+    }
+};
